@@ -8,7 +8,7 @@ body {
 }
 .heading {
   text-align: center;
-  font-size: 10vh;
+  font-size: x-large;
 }
 .countdown {
   height: 50vh;
@@ -16,7 +16,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 15vh;
+  font-size: x-large;
 }
 .message {
   height: 30vh;
@@ -24,12 +24,12 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 10vh;
+  font-size: x-large;
 }
 footer {
   height: 10vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 5vh;
+  font-size: large;
 }
