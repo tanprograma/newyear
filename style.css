@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+body {
+  background-color: black;
+  color: white;
+}
+.heading {
+  text-align: center;
+  font-size: 10vh;
+}
+.countdown {
+  height: 50vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 15vh;
+}
+.message {
+  height: 30vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 10vh;
+}
+footer {
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 5vh;
+}
